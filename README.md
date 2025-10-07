@@ -33,3 +33,26 @@ Our system aims to use **AI alerts** and a **future microfluidic patch** to redu
    ```bash
    git clone https://github.com/kavyapriya-bt/AI-Emergency-detection-support.git
    cd AI-Emergency-detection-support
+---
+
+## 🎥 Demo Video
+🎬 [Click here to watch the demo vedio](https://youtu.be/tEbBsjOc9ms)
+
+---
+
+## 📄 Technical Report
+📘 [View Technical Report (PDF)](Technical_Report.pdf)
+
+---
+
+## 👩‍💻 Team Information
+**Team Name:** *inovra*  
+**Department:** Biomedical Engineering & EEE  
+**Institution:** chennai institutue of technology  
+**Event:** ETHOS Hackathon 2025  
+
+---
+
+⭐ *Developed with passion by Team inovra*
+
+
