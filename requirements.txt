@@ -1,0 +1,11 @@
+# Requirements for AI Emergency Decision Support System
+# This project uses only Python’s standard libraries.
+
+# Built-in modules used:
+#   random
+#   time
+#   csv
+#   datetime
+
+# No external installations needed.
+# Run with:  python main.py

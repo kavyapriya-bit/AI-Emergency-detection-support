@@ -1,0 +1,16 @@
+# Ignore runtime log files and system caches
+patient_log.csv
+__pycache__/
+*.pyc
+*.log
+.env
+
+# Ignore temporary or backup files
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Ignore local IDE or editor files
+.vscode/
+.idea/
